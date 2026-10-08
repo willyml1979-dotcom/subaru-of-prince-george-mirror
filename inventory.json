@@ -1,6 +1,6 @@
 {
   "dealership": "Subaru Of Prince George",
-  "generated_at": "2026-09-26T11:58:33",
+  "generated_at": "2026-10-08T14:52:44",
   "vehicle_count": 147,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -10,6 +10,7 @@
       "vin": "1FMEU2D80AUA20633",
       "stock": "26OB006",
       "color": "Black",
+      "trim": "Sport Trac Adrenalin",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/f1e5e0c15202.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2010/ford/explorer-sport-trac/prince-george/bc/71295280/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2010/ford/explorer-sport-trac/prince-george/bc/71295280/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -19,8 +20,10 @@
       "odometer_km": 150402,
       "year": 2010,
       "make": "Ford",
-      "model": "Explorer Sport Trac Adrenalin",
-      "condition": "used"
+      "model": "Explorer",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2011 Honda Crosstour EX-L | 4WD | Tow Off The Lot",
@@ -37,13 +40,16 @@
       "year": 2011,
       "make": "Honda",
       "model": "Crosstour EX-L",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2012 Toyota RAV4 Limited | 4WD | Tow Off The Lot",
       "vin": "2T3DK4DV6CW079876",
       "stock": "P048810",
       "color": "Black",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/f8ae5b364a42.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2012/toyota/rav4/prince-george/bc/70628306/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2012/toyota/rav4/prince-george/bc/70628306/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -53,14 +59,17 @@
       "odometer_km": 275775,
       "year": 2012,
       "make": "Toyota",
-      "model": "RAV4 Limited",
-      "condition": "used"
+      "model": "RAV4",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2013 Chevrolet Cruze Sedan LTZ Turbo | Tow Off The Lot",
       "vin": "1G1PG5SB9D7228574",
       "stock": "26CT061",
       "color": "Blue",
+      "trim": "LTZ Turbo",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/a989741f5c89.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2013/chevrolet/cruze-sedan/prince-george/bc/70905163/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2013/chevrolet/cruze-sedan/prince-george/bc/70905163/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -70,14 +79,17 @@
       "odometer_km": 178370,
       "year": 2013,
       "make": "Chevrolet",
-      "model": "Cruze Sedan LTZ Turbo",
-      "condition": "used"
+      "model": "Cruze",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2013 Subaru Impreza 2.0i | AWD | Tow Off The Lot",
       "vin": "JF1GPAC68DH209113",
       "stock": "26OB699",
       "color": "White",
+      "trim": "2.0i",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/32aaf37c19e3.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2013/subaru/impreza/prince-george/bc/70797095/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2013/subaru/impreza/prince-george/bc/70797095/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -87,14 +99,17 @@
       "odometer_km": 150674,
       "year": 2013,
       "make": "Subaru",
-      "model": "Impreza 2.0i",
-      "condition": "used"
+      "model": "Impreza",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2014 Hyundai Sonata Hybrid Hybrid Limited | Tow Off The Lot",
       "vin": "KMHEC4A49EA115487",
       "stock": "26OB272",
       "color": "Silver",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/d382fc1e6d19.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2014/hyundai/sonata-hybrid/prince-george/bc/71295277/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2014/hyundai/sonata-hybrid/prince-george/bc/71295277/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -104,14 +119,17 @@
       "odometer_km": 81457,
       "year": 2014,
       "make": "Hyundai",
-      "model": "Sonata Hybrid Hybrid Limited",
-      "condition": "used"
+      "model": "Sonata Hybrid Hybrid",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2014 Subaru Forester Touring | AWD | Tow Off The Lot",
       "vin": "JF2SJCHCXEH428934",
       "stock": "26FR287",
       "color": "Blue",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/61f53a72afd3.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2014/subaru/forester/prince-george/bc/70742755/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2014/subaru/forester/prince-george/bc/70742755/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -121,14 +139,17 @@
       "odometer_km": 197810,
       "year": 2014,
       "make": "Subaru",
-      "model": "Forester Touring",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2015 Subaru Forester Touring | AWD | Tow Off The Lot",
       "vin": "JF2SJCHC2FH464943",
       "stock": "26FR775",
       "color": "Silver",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/23c08ef3b67d.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2015/subaru/forester/prince-george/bc/70858130/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2015/subaru/forester/prince-george/bc/70858130/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -138,14 +159,17 @@
       "odometer_km": 299233,
       "year": 2015,
       "make": "Subaru",
-      "model": "Forester Touring",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Edge SEL | AWD | Tow Off The Lot",
       "vin": "2FMPK4J90HBB85539",
       "stock": "26CT432",
       "color": "Silver",
+      "trim": "SEL",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/004a3f135136.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2017/ford/edge/prince-george/bc/70259728/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2017/ford/edge/prince-george/bc/70259728/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -155,14 +179,17 @@
       "odometer_km": 245838,
       "year": 2017,
       "make": "Ford",
-      "model": "Edge SEL",
-      "condition": "used"
+      "model": "Edge",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2017 GMC Terrain SLE | FWD | Backup Camera | Keyless Entry",
       "vin": "2GKALMEK9H6324729",
       "stock": "26OB843",
       "color": "Black",
+      "trim": "SLE",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/e70aa4de5250.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2017/gmc/terrain/prince-george/bc/70870848/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2017/gmc/terrain/prince-george/bc/70870848/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -172,14 +199,17 @@
       "odometer_km": 62582,
       "year": 2017,
       "make": "GMC",
-      "model": "Terrain SLE",
-      "condition": "used"
+      "model": "Terrain",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2017 Toyota Sequoia Limited | 4WD | Seats 8 | Navigation | Sunroof",
       "vin": "5TDJY5G10HS148389",
       "stock": "26CT665",
       "color": "Grey",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/1bbbef8e534b.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2017/toyota/sequoia/prince-george/bc/69310213/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2017/toyota/sequoia/prince-george/bc/69310213/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -189,14 +219,17 @@
       "odometer_km": 292986,
       "year": 2017,
       "make": "Toyota",
-      "model": "Sequoia Limited",
-      "condition": "used"
+      "model": "Sequoia",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2018 Dodge Durango GT | AWD | Seats 7 | Remote Start | Sunroof",
       "vin": "1C4RDJDG0JC400794",
       "stock": "P0498VI",
       "color": "Grey",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/60fdea2eccf4.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2018/dodge/durango/prince-george/bc/71166998/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2018/dodge/durango/prince-george/bc/71166998/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -206,14 +239,17 @@
       "odometer_km": 114210,
       "year": 2018,
       "make": "Dodge",
-      "model": "Durango GT",
-      "condition": "used"
+      "model": "Durango",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2018 Subaru Forester Limited | AWD | Navigation | Power Moonroof",
       "vin": "JF2SJESC0JH591610",
       "stock": "26FR383",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/dcc1944fdc89.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2018/subaru/forester/prince-george/bc/71295278/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2018/subaru/forester/prince-george/bc/71295278/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -223,14 +259,17 @@
       "odometer_km": 168628,
       "year": 2018,
       "make": "Subaru",
-      "model": "Forester Limited",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2018 Toyota 4Runner Limited | 4WD | Nav | Remote Start | Sunroof",
       "vin": "JTEBU5JR3J5503075",
       "stock": "P0496VI",
       "color": "Grey",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/3d11c34b5471.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2018/toyota/4runner/prince-george/bc/71156271/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2018/toyota/4runner/prince-george/bc/71156271/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -240,14 +279,17 @@
       "odometer_km": 59773,
       "year": 2018,
       "make": "Toyota",
-      "model": "4Runner Limited",
-      "condition": "used"
+      "model": "4Runner",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2019 Chevrolet Silverado 1500 Crew Cab LT | 4WD | Seats 6 | Remote Start | Heated Seats",
       "vin": "1GCUYDED1KZ161369",
       "stock": "26FR290",
       "color": "Silver",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/d85c3cb5aaf0.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2019/chevrolet/silverado-1500-crew-cab/prince-george/bc/71350996/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2019/chevrolet/silverado-1500-crew-cab/prince-george/bc/71350996/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -257,14 +299,17 @@
       "odometer_km": 96099,
       "year": 2019,
       "make": "Chevrolet",
-      "model": "Silverado 1500 Crew Cab LT",
-      "condition": "used"
+      "model": "Silverado 1500",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Tucson Essential | AWD | Backup Camera | Heated Seats",
       "vin": "KM8J2CA46KU872790",
       "stock": "26FR991",
       "color": "Grey",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/fa63250ac867.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2019/hyundai/tucson/prince-george/bc/71228019/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2019/hyundai/tucson/prince-george/bc/71228019/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -274,8 +319,10 @@
       "odometer_km": 137460,
       "year": 2019,
       "make": "Hyundai",
-      "model": "Tucson Essential",
-      "condition": "used"
+      "model": "Tucson",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2019 Jaguar F-Pace 30t Prestige | AWD | Navigation | Moonroof",
@@ -292,7 +339,9 @@
       "year": 2019,
       "make": "Jaguar",
       "model": "F-Pace 30t Prestige",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2019 Mercedes-Benz A-Class Sedan A 220 4MATIC Sedan",
@@ -307,13 +356,16 @@
       "year": 2019,
       "make": "Mercedes-Benz",
       "model": "A-Class Sedan A 220 4MATIC Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Altima Platinum | AWD | Nav | Remote Start | Sunroof",
       "vin": "1N4BL4FW1KN311080",
       "stock": "26WX359",
       "color": "Black",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/53faecc34de1.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2019/nissan/altima/prince-george/bc/71267005/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2019/nissan/altima/prince-george/bc/71267005/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -323,14 +375,17 @@
       "odometer_km": 108508,
       "year": 2019,
       "make": "Nissan",
-      "model": "Altima Platinum",
-      "condition": "used"
+      "model": "Altima",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2019 Subaru Ascent Limited | AWD | Seats 8 | Nav | Moonroof",
       "vin": "4S4WMALD7K3405224",
       "stock": "F0492VI",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/b7a2c7d47059.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2019/subaru/ascent/prince-george/bc/70908558/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2019/subaru/ascent/prince-george/bc/70908558/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -340,14 +395,17 @@
       "odometer_km": 115288,
       "year": 2019,
       "make": "Subaru",
-      "model": "Ascent Limited",
-      "condition": "used"
+      "model": "Ascent",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2019 Subaru Outback Premier | AWD | Nav | Sunroof | Heated Front Seats",
       "vin": "4S4BSDTCXK3284072",
       "stock": "26OB045",
       "color": "Silver",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/1955cff8a609.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2019/subaru/outback/prince-george/bc/71327765/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2019/subaru/outback/prince-george/bc/71327765/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -357,14 +415,17 @@
       "odometer_km": 31592,
       "year": 2019,
       "make": "Subaru",
-      "model": "Outback Premier",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2019 Subaru WRX Raiu Edition | AWD | Manual | Nav | Sunroof",
       "vin": "JF1VA1M61K9809082",
       "stock": "EB04931",
       "color": "Grey",
+      "trim": "Raiu Edition",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/bc627024bb03.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2019/subaru/wrx/prince-george/bc/71267013/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2019/subaru/wrx/prince-george/bc/71267013/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -374,14 +435,17 @@
       "odometer_km": 93428,
       "year": 2019,
       "make": "Subaru",
-      "model": "WRX Raiu Edition",
-      "condition": "used"
+      "model": "WRX",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2020 Toyota C-HR Limited | Heated Front Seats/Steering Wheel",
       "vin": "JTNKHMBX3L1076308",
       "stock": "26WX361",
       "color": "Silver",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/41c09a76ef22.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2020/toyota/c-hr/prince-george/bc/71295279/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2020/toyota/c-hr/prince-george/bc/71295279/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -391,14 +455,17 @@
       "odometer_km": 46428,
       "year": 2020,
       "make": "Toyota",
-      "model": "C-HR Limited",
-      "condition": "used"
+      "model": "C-HR",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2020 Toyota Corolla Sedan SE | Manual | Heated Front Seats | Sunroof",
       "vin": "5YFB4RBE1LP010539",
       "stock": "P050020",
       "color": "Blue",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/bd601c4dd4ae.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2020/toyota/corolla-sedan/prince-george/bc/71363938/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2020/toyota/corolla-sedan/prince-george/bc/71363938/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -408,14 +475,17 @@
       "odometer_km": 92868,
       "year": 2020,
       "make": "Toyota",
-      "model": "Corolla Sedan SE",
-      "condition": "used"
+      "model": "Corolla",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2021 Honda Passport EX-L | AWD | Remote Start | Power Sunroof",
       "vin": "5FNYF8H52MB501544",
       "stock": "26FR843",
       "color": "White",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/872015d15915.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2021/honda/passport/prince-george/bc/70905161/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2021/honda/passport/prince-george/bc/70905161/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -425,14 +495,17 @@
       "odometer_km": 65948,
       "year": 2021,
       "make": "Honda",
-      "model": "Passport EX-L",
-      "condition": "used"
+      "model": "Passport",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Wrangler Unlimited Sahara | 4WD | Nav | Remote Start",
       "vin": "1C4HJXEG0MW841916",
       "stock": "26OB572",
       "color": "Green",
+      "trim": "Unlimited Sahara",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/9ad86747e743.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2021/jeep/wrangler/prince-george/bc/71340377/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2021/jeep/wrangler/prince-george/bc/71340377/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -442,14 +515,17 @@
       "odometer_km": 92327,
       "year": 2021,
       "make": "Jeep",
-      "model": "Wrangler Unlimited Sahara",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2021 Subaru Crosstrek Outdoor | AWD | Heated Front Seats/Steering Wheel",
       "vin": "JF2GTHSC8MH217199",
       "stock": "26TS802",
       "color": "Grey",
+      "trim": "Outdoor",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/f12523db31f7.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2021/subaru/crosstrek/prince-george/bc/71094403/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2021/subaru/crosstrek/prince-george/bc/71094403/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -459,14 +535,17 @@
       "odometer_km": 92296,
       "year": 2021,
       "make": "Subaru",
-      "model": "Crosstrek Outdoor",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2021 Subaru Crosstrek Sport | AWD | Heated Front Seats | Sunroof",
       "vin": "JF2GTAGC0M8652296",
       "stock": "26OB285",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/101772f8744d.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2021/subaru/crosstrek/prince-george/bc/71347886/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2021/subaru/crosstrek/prince-george/bc/71347886/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -476,14 +555,17 @@
       "odometer_km": 88862,
       "year": 2021,
       "make": "Subaru",
-      "model": "Crosstrek Sport",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2021 Subaru Crosstrek Outdoor CVT",
       "vin": "JF2GTHSCXMH396815",
       "stock": "26CT114",
       "color": "Grey",
+      "trim": "Outdoor",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/8e9b29a3a162.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2021/subaru/crosstrek/prince-george/bc/71403252/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2021/subaru/crosstrek/prince-george/bc/71403252/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -491,14 +573,17 @@
       "odometer_km": 110884,
       "year": 2021,
       "make": "Subaru",
-      "model": "Crosstrek Outdoor CVT",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Escape SE | AWD | Backup Camera | Heated Front Seats",
       "vin": "1FMCU9G60NUA52692",
       "stock": "26FR225",
       "color": "Grey",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/2015ce66a8b7.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2022/ford/escape/prince-george/bc/71094932/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2022/ford/escape/prince-george/bc/71094932/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -508,14 +593,17 @@
       "odometer_km": 95583,
       "year": 2022,
       "make": "Ford",
-      "model": "Escape SE",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Ford F-150 SuperCrew Lariat | 4WD | Remote Start | Heated/Cooled Seats",
       "vin": "1FTFW1E8XNFC02555",
       "stock": "P0497VI",
       "color": "Black",
+      "trim": "Lariat",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/1da7fd6bf73c.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2022/ford/f-150-supercrew/prince-george/bc/71158041/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2022/ford/f-150-supercrew/prince-george/bc/71158041/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -525,14 +613,17 @@
       "odometer_km": 55284,
       "year": 2022,
       "make": "Ford",
-      "model": "F-150 SuperCrew Lariat",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Subaru Forester Premier | AWD | Navigation | Moonroof",
       "vin": "JF2SKERC4NH409786",
       "stock": "P0494VI",
       "color": "White",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/6d83ed0f049e.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2022/subaru/forester/prince-george/bc/70954066/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2022/subaru/forester/prince-george/bc/70954066/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -542,14 +633,17 @@
       "odometer_km": 55623,
       "year": 2022,
       "make": "Subaru",
-      "model": "Forester Premier",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Subaru Forester Convenience | AWD | Heated Front Seats",
       "vin": "JF2SKEDC9NH508062",
       "stock": "P0502VI",
       "color": "Blue",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/658056049d00.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2022/subaru/forester/prince-george/bc/71278245/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2022/subaru/forester/prince-george/bc/71278245/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -559,14 +653,17 @@
       "odometer_km": 42606,
       "year": 2022,
       "make": "Subaru",
-      "model": "Forester Convenience",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Subaru Outback Touring | AWD | Heated Front Seats | Moonroof",
       "vin": "4S4BTDEC1N3198874",
       "stock": "EB0484V",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/f28137ec5e5f.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2022/subaru/outback/prince-george/bc/70538400/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2022/subaru/outback/prince-george/bc/70538400/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -576,14 +673,17 @@
       "odometer_km": 76544,
       "year": 2022,
       "make": "Subaru",
-      "model": "Outback Touring",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Tiguan Highline R-Line | AWD | Nav | Remote Start",
       "vin": "3VV4B7AX4NM101385",
       "stock": "26CT473",
       "color": "Silver",
+      "trim": "Highline R-Line",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/771b229c2640.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2022/volkswagen/tiguan/prince-george/bc/71094404/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2022/volkswagen/tiguan/prince-george/bc/71094404/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -593,14 +693,17 @@
       "odometer_km": 61851,
       "year": 2022,
       "make": "Volkswagen",
-      "model": "Tiguan Highline R-Line",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 SuperCrew Lariat | 4WD | Navigation | Remote Start",
       "vin": "1FTEW1EP6PKF34781",
       "stock": "F0469VI",
       "color": "Grey",
+      "trim": "Lariat",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/65462bd682fc.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2023/ford/f-150-supercrew/prince-george/bc/70073069/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2023/ford/f-150-supercrew/prince-george/bc/70073069/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -610,14 +713,17 @@
       "odometer_km": 57404,
       "year": 2023,
       "make": "Ford",
-      "model": "F-150 SuperCrew Lariat",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2023 Subaru Outback Wilderness | AWD | Heated Front Seats | Sunroof",
       "vin": "4S4BTHTD1P3135683",
       "stock": "26FR776",
       "color": "Silver",
+      "trim": "Wilderness",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/96e69d27a042.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2023/subaru/outback/prince-george/bc/70905952/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2023/subaru/outback/prince-george/bc/70905952/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -627,14 +733,17 @@
       "odometer_km": 119703,
       "year": 2023,
       "make": "Subaru",
-      "model": "Outback Wilderness",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek Convenience | AWD | Heated Front Seats",
       "vin": "JF2GUABC2RH203035",
       "stock": "EB0485V",
       "color": "Grey",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/3460e5ece4b6.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2024/subaru/crosstrek/prince-george/bc/70538401/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2024/subaru/crosstrek/prince-george/bc/70538401/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -644,14 +753,17 @@
       "odometer_km": 60382,
       "year": 2024,
       "make": "Subaru",
-      "model": "Crosstrek Convenience",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Forester Touring | AWD | Heated Front Seats | Power Sunroof",
       "vin": "JF2SKEDC0RH434195",
       "stock": "26FR807",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/f2bf4852b80b.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2024/subaru/forester/prince-george/bc/69648963/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2024/subaru/forester/prince-george/bc/69648963/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -661,14 +773,17 @@
       "odometer_km": 115496,
       "year": 2024,
       "make": "Subaru",
-      "model": "Forester Touring",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Forester Base | AWD | Heated Front Seats",
       "vin": "JF2SKEBCXRH449368",
       "stock": "EB0474V",
       "color": "Grey",
+      "trim": "Base",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/f1914351df3a.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2024/subaru/forester/prince-george/bc/70202416/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2024/subaru/forester/prince-george/bc/70202416/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -678,14 +793,17 @@
       "odometer_km": 94685,
       "year": 2024,
       "make": "Subaru",
-      "model": "Forester Base",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Outback Wilderness | AWD | Heated Front Seats | Moonroof",
       "vin": "4S4BTHTD6R3129123",
       "stock": "P0478VI",
       "color": "Blue",
+      "trim": "Wilderness",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/d2f2502ad7ce.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2024/subaru/outback/prince-george/bc/70321652/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2024/subaru/outback/prince-george/bc/70321652/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -695,14 +813,17 @@
       "odometer_km": 75920,
       "year": 2024,
       "make": "Subaru",
-      "model": "Outback Wilderness",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Outback Limited | AWD | Navigation | Power Sunroof",
       "vin": "4S4BTDNCXR3119286",
       "stock": "26OB713",
       "color": "Red",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/b58ac9b9307d.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2024/subaru/outback/prince-george/bc/70841570/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2024/subaru/outback/prince-george/bc/70841570/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -712,14 +833,17 @@
       "odometer_km": 36614,
       "year": 2024,
       "make": "Subaru",
-      "model": "Outback Limited",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Outback Convenience | AWD | Heated Seats/Steering Wheel",
       "vin": "4S4BTDACXR3137874",
       "stock": "F0499VI",
       "color": "Silver",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/4ef604dcd98d.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2024/subaru/outback/prince-george/bc/71174522/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2024/subaru/outback/prince-george/bc/71174522/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -729,14 +853,17 @@
       "odometer_km": 50619,
       "year": 2024,
       "make": "Subaru",
-      "model": "Outback Convenience",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Kicks S | AWD | Backup Camera | Heated Front Seats",
       "vin": "3N8AP6BB9SL316444",
       "stock": "26CT958",
       "color": "Grey",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/a93d57cff3c8.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2025/nissan/kicks/prince-george/bc/71295275/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2025/nissan/kicks/prince-george/bc/71295275/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -746,14 +873,17 @@
       "odometer_km": 82085,
       "year": 2025,
       "make": "Nissan",
-      "model": "Kicks S",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Forester Hybrid Premier | AWD | Navigation | Moonroof",
       "vin": "JF2SLSTD0SH405730",
       "stock": "EB0481V",
       "color": "Green",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/d37bc7ec0f82.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2025/subaru/forester/prince-george/bc/70379391/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2025/subaru/forester/prince-george/bc/70379391/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -763,14 +893,17 @@
       "odometer_km": 8086,
       "year": 2025,
       "make": "Subaru",
-      "model": "Forester Hybrid Premier",
-      "condition": "used"
+      "model": "Forester Hybrid",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Impreza Convenience | AWD | Heated Front Seats",
       "vin": "JF1GUABC3S8303980",
       "stock": "26CT378",
       "color": "White",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/63aab9134a4d.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2025/subaru/impreza/prince-george/bc/70309417/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2025/subaru/impreza/prince-george/bc/70309417/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -780,14 +913,17 @@
       "odometer_km": 19523,
       "year": 2025,
       "make": "Subaru",
-      "model": "Impreza Convenience",
-      "condition": "used"
+      "model": "Impreza",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | AWD | Heated Front Seats | Moonroof",
       "vin": "JF2BUPCD5TY468558",
       "stock": "TR0489V",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/858d508b77be.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/70609894/?sale_class=used",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/70609894/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -797,8 +933,10 @@
       "odometer_km": 18166,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Touring",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru BRZ | RWD | Manual | Order Yours Today!",
@@ -814,13 +952,16 @@
       "year": 2026,
       "make": "Subaru",
       "model": "BRZ",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | AWD | Navigation | Power Sunroof",
       "vin": "JF2GUSND5T8257950",
       "stock": "26CT795",
       "color": "Grey",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/8a3c5bad8638.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek-hybrid/prince-george/bc/69835047/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek-hybrid/prince-george/bc/69835047/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -830,14 +971,17 @@
       "odometer_km": 23,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid Limited",
-      "condition": "new"
+      "model": "Crosstrek Hybrid Hybrid",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | AWD | Navigation | Sunroof | Demo",
       "vin": "JF2GUSNDXT8254770",
       "stock": "26CT477",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/84694be94656.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek-hybrid/prince-george/bc/70159147/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek-hybrid/prince-george/bc/70159147/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -847,14 +991,17 @@
       "odometer_km": 1076,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid Limited",
-      "condition": "new"
+      "model": "Crosstrek Hybrid Hybrid",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | AWD | Navigation | Power Sunroof",
       "vin": "JF2GUSND2T8266864",
       "stock": "26CT686",
       "color": "Brown",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/78e8c4fa7075.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek-hybrid/prince-george/bc/70182272/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek-hybrid/prince-george/bc/70182272/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -864,14 +1011,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid Limited",
-      "condition": "new"
+      "model": "Crosstrek Hybrid Hybrid",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | AWD | Navigation | Power Sunroof",
       "vin": "JF2GUSND4T8270124",
       "stock": "26CT012",
       "color": "Grey",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/e8d524868940.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek-hybrid/prince-george/bc/70294401/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek-hybrid/prince-george/bc/70294401/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -881,14 +1031,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid Limited",
-      "condition": "new"
+      "model": "Crosstrek Hybrid Hybrid",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | AWD | 360 Camera | Navigation",
       "vin": "JF2GUSND5T8282427",
       "stock": "26CT242",
       "color": "Yellow",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/302cdac4cd0a.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek-hybrid/prince-george/bc/71229245/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek-hybrid/prince-george/bc/71229245/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -898,14 +1051,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid Limited",
-      "condition": "new"
+      "model": "Crosstrek Hybrid Hybrid",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | AWD | 360 Camera | Navigation",
       "vin": "JF2GUSND4T8282774",
       "stock": "26CT277",
       "color": "Silver",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/d907c3e1ecff.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek-hybrid/prince-george/bc/71304569/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek-hybrid/prince-george/bc/71304569/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -915,14 +1071,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid Limited",
-      "condition": "new"
+      "model": "Crosstrek Hybrid Hybrid",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | AWD | 360 Camera | Navigation",
       "vin": "JF2GUSND9T8294337",
       "stock": "26CT433",
       "color": "Brown",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/83b58683cb32.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek-hybrid/prince-george/bc/71335403/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek-hybrid/prince-george/bc/71335403/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -932,14 +1091,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid Limited",
-      "condition": "new"
+      "model": "Crosstrek Hybrid Hybrid",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Limited | AWD | Available to Order!",
       "vin": "FORDER26CTTXAHLP1U",
       "stock": "FO26CTH",
       "color": "Silver",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/24a2def1a7d5.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/68328573/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/68328573/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -948,14 +1110,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid Limited",
-      "condition": "new"
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited | AWD | Navigation | Power Sunroof",
       "vin": "JF2GUHNCXT8267822",
       "stock": "26CT782",
       "color": "Red",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/35736dac45e5.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/70212897/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/70212897/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -965,14 +1130,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Limited",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | AWD | Heated Front Seats | Power Sunroof",
       "vin": "JF2GUHFC1T8267318",
       "stock": "26CT731",
       "color": "Black",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/cd590726978b.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/70212904/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/70212904/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -982,14 +1150,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | AWD | Heated Front Seats | Power Sunroof",
       "vin": "JF2GUHFC3T8267658",
       "stock": "26CT765",
       "color": "Blue",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/3fc921fc1b99.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/70212905/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/70212905/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -999,14 +1170,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | AWD | Heated Front Seats | Power Sunroof",
       "vin": "JF2GUHFC6T8267380",
       "stock": "26CT738",
       "color": "Silver",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/d11eb9f6775e.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/70212913/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/70212913/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1016,14 +1190,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | AWD | Heated Front Seats | Power Sunroof",
       "vin": "JF2GUHFC2T8269904",
       "stock": "26CT990",
       "color": "White",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/12426962b57d.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/70294391/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/70294391/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1033,14 +1210,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | AWD | Heated Front Seats | Power Sunroof",
       "vin": "JF2GUHFC6T8281179",
       "stock": "26CT117",
       "color": "White",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/d049927304af.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/70798149/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/70798149/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1050,14 +1230,17 @@
       "odometer_km": 20,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | AWD | Heated Front Seats | Power Sunroof",
       "vin": "JF2GUHFC6T8279609",
       "stock": "26CT960",
       "color": "Black",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/0364a3002d73.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/70798155/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/70798155/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1067,14 +1250,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | AWD | Heated Front Seats | Power Sunroof",
       "vin": "JF2GUHFC9T8281001",
       "stock": "26CT100",
       "color": "Red",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/79f4acd37668.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/70798161/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/70798161/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1084,14 +1270,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Limited | AWD | Available to Order!",
       "vin": "FORDER26CTTXAHLCH",
       "stock": "FO26CTH",
       "color": "Blue",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/9a82ea690aaa.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/70821257/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/70821257/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1100,14 +1289,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid Limited",
-      "condition": "new"
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Limited | AWD | Available to Order!",
       "vin": "FORDER26CTTXAHLCR",
       "stock": "FO26CTH",
       "color": "Yellow",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/d84ba4442367.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/70821258/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/70821258/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1116,14 +1308,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid Limited",
-      "condition": "new"
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience | AWD | Heated Front Seats",
       "vin": "FORDER26CTTXACPCU",
       "stock": "FO26CTC",
       "color": "Brown",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/6dd0ad941e12.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/70821259/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/70821259/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1132,14 +1327,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Convenience",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Limited | Available to Order!",
       "vin": "FORDER26CTTXAHL1X",
       "stock": "FO26CTH",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/bbb8ebed11b1.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/70821261/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/70821261/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1148,14 +1346,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid Limited",
-      "condition": "new"
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Limited | AWD | Available to Order!",
       "vin": "FORDER26CTTXAHL4S",
       "stock": "FO26CTH",
       "color": "Black",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/a8deba2c7a25.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/70821266/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/70821266/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1164,14 +1365,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid Limited",
-      "condition": "new"
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring | AWD | Heated Front Seats/Steering Wheel",
       "vin": "INCOMI26CTTXATP4S",
       "stock": "IN26CTT",
       "color": "Black",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/c41dcb57f7c4.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/71016843/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/71016843/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1181,14 +1385,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Touring",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited | AWD | Navigation | Power Sunroof",
       "vin": "JF2GUHNC4T8289637",
       "stock": "26CT963",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/e48e7b0bb877.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/71059737/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/71059737/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1198,14 +1405,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Limited",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | AWD | Heated Front Seats | Power Sunroof",
       "vin": "JF2GUHFC8T8292071",
       "stock": "26CT207",
       "color": "Red",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/89a6ef787d8c.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/71216158/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/71216158/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1215,14 +1425,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | AWD | Heated Front Seats | Power Sunroof",
       "vin": "JF2GUHFC3T8292012",
       "stock": "26CT201",
       "color": "Brown",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/dc882c19ffbb.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/71216165/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/71216165/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1232,14 +1445,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience | AWD | Heated Front Seats",
       "vin": "JF2GUHBC5T8293779",
       "stock": "26CT377",
       "color": "Blue",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/c55a3cde8eab.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/71279583/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/71279583/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1249,14 +1465,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Convenience",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience | AWD | Heated Front Seats",
       "vin": "JF2GUHBC1T8295433",
       "stock": "26CT543",
       "color": "Brown",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/113242cfd339.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/71335405/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/crosstrek/prince-george/bc/71335405/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1266,14 +1485,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Convenience",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Premier | AWD | Navigation | Power Sunroof",
       "vin": "JF2SLDTC0TH461333",
       "stock": "26FR133",
       "color": "Black",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/a665b347eeeb.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/69556945/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/69556945/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1283,14 +1505,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Premier",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Premier | AWD | Navigation | Power Moonroof",
       "vin": "JF2SLDTC8TH462536",
       "stock": "26FR253",
       "color": "Grey",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/952e76f810cb.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70159149/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70159149/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1300,14 +1525,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Premier",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | AWD | Navigation | Power Moonroof",
       "vin": "JF2SLDRC4TH467482",
       "stock": "26FR748",
       "color": "Black",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/5120d30f1d8e.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70212900/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70212900/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1317,14 +1545,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | AWD | Navigation | Power Moonroof",
       "vin": "JF2SLSTD6TH467053",
       "stock": "26FR705",
       "color": "Green",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/1b418e931963.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70212901/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70212901/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1334,14 +1565,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Hybrid Premier",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | AWD | Navigation | Power Moonroof",
       "vin": "JF2SLDRC3TH467182",
       "stock": "26FR718",
       "color": "Grey",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/7483e7f61c17.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70212903/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70212903/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1351,14 +1585,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | AWD | Navigation | Power Moonroof",
       "vin": "JF2SLDRC5TH467393",
       "stock": "26FR739",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/3f71cc1bce5d.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70212906/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70212906/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1368,14 +1605,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport | AWD | Heated Front Seats | Moonroof",
       "vin": "JF2SLDHC5TH467573",
       "stock": "26FR757",
       "color": "Green",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/aba9bb608710.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70212907/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70212907/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1385,14 +1625,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | AWD | Navigation | Power Moonroof",
       "vin": "JF2SLDRC3TH467599",
       "stock": "26FR759",
       "color": "Green",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/aae54b924ea6.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70212914/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70212914/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1402,14 +1645,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | AWD | Navigation | Power Moonroof",
       "vin": "JF2SLDRC6TH467581",
       "stock": "26FR758",
       "color": "Grey",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/f7e73fe117de.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70212915/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70212915/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1419,14 +1665,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Premier | AWD | Navigation | Power Moonroof",
       "vin": "JF2SLDTC2TH468297",
       "stock": "26FR829",
       "color": "Grey",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/32a4ab39f107.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70294397/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70294397/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1436,14 +1685,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Premier",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | AWD | Navigation | Moonroof",
       "vin": "JF2SLSTD3TH470007",
       "stock": "26FR000",
       "color": "Blue",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/d9ab1e1e7a97.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70445005/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70445005/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1453,14 +1705,17 @@
       "odometer_km": 21,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Hybrid Premier",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | AWD | Navigation | Moonroof",
       "vin": "JF2SLDRC4TH469488",
       "stock": "26FR948",
       "color": "Grey",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/7bc57ddcc222.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70445007/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70445007/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1470,14 +1725,17 @@
       "odometer_km": 18,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | AWD | Navigation | Moonroof",
       "vin": "JF2SLSTD6TH469658",
       "stock": "26FR965",
       "color": "Grey",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/d45c9645a1d8.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70445008/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70445008/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1487,14 +1745,17 @@
       "odometer_km": 18,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Hybrid Premier",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | AWD | Navigation | Moonroof",
       "vin": "JF2SLDRC1TH469867",
       "stock": "26FR986",
       "color": "Blue",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/ee1cd6bd5e08.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70445010/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70445010/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1504,14 +1765,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | AWD | Navigation | Moonroof",
       "vin": "JF2SLSTD5TH469912",
       "stock": "26FR991",
       "color": "White",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/60928aaf51ef.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70445015/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70445015/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1521,14 +1785,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Hybrid Premier",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | AWD | Navigation | Moonroof",
       "vin": "JF2SLSTD4TH469500",
       "stock": "26FR950",
       "color": "Grey",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/21923aee154b.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70445019/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70445019/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1538,14 +1805,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Hybrid Premier",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Premier | AWD | Navigation | Moonroof",
       "vin": "JF2SLDTC0TH469464",
       "stock": "26FR946",
       "color": "Grey",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/fee05c55d54c.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70450917/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70450917/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1555,14 +1825,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Premier",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport | AWD | Heated Front Seats | Moonroof",
       "vin": "JF2SLDHCXTH472462",
       "stock": "26FR246",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/c5a7b5503f78.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70798148/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70798148/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1572,14 +1845,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | AWD | Navigation | Power Moonroof",
       "vin": "JF2SLDRC0TH473005",
       "stock": "26FR300",
       "color": "Black",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/883acc609497.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70798159/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70798159/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1589,14 +1865,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | AWD | Navigation | Power Moonroof",
       "vin": "JF2SLDRC9TH472807",
       "stock": "26FR280",
       "color": "Grey",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/a49e8c3177b3.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70798165/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/70798165/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1606,14 +1885,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | AWD | Heated Front Seats | Moonroof",
       "vin": "INCOMI26FRTJATPCH",
       "stock": "IN26FRT",
       "color": "Blue",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/d5c7584f1c1b.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71016844/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71016844/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1623,14 +1905,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | AWD | Navigation | Moonroof",
       "vin": "JF2SLSTD4TH475166",
       "stock": "26FR516",
       "color": "Blue",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/bae4ee746b6c.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71059723/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71059723/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1640,14 +1925,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Hybrid Premier",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | AWD | Navigation | Moonroof",
       "vin": "JF2SLSTD8TH474991",
       "stock": "26FR499",
       "color": "White",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/37fcddd73bd9.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71059724/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71059724/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1657,14 +1945,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Hybrid Premier",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | AWD | Navigation | Moonroof",
       "vin": "JF2SLSTD7TH474920",
       "stock": "26FR492",
       "color": "Green",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/5803ddccc2ed.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71059725/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71059725/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1674,14 +1965,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Hybrid Premier",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Premier | AWD | Nav | Heated/Cooled Seats",
       "vin": "JF2SLDTC7TH474953",
       "stock": "26FR495",
       "color": "Grey",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/095a50f1bcee.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71059727/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71059727/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1691,14 +1985,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Premier",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | AWD | Navigation | Moonroof",
       "vin": "JF2SLSTD0TH474970",
       "stock": "26FR497",
       "color": "Green",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/1f9cc483c6ef.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71059728/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71059728/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1708,14 +2005,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Hybrid Premier",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | AWD | Navigation | Power Moonroof",
       "vin": "JF2SLDRC5TH474912",
       "stock": "26FR491",
       "color": "Green",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/00f7d179aa6e.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71059736/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71059736/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1725,14 +2025,17 @@
       "odometer_km": 14,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | AWD | Navigation | Power Moonroof",
       "vin": "JF2SLDRC7TH469534",
       "stock": "26FR953",
       "color": "Blue",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/7d98744df98e.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71130889/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71130889/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1742,14 +2045,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport | AWD | Heated Front Seats | Moonroof",
       "vin": "JF2SLDHC9TH470766",
       "stock": "26FR076",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/aa9dabe76b85.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71141942/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71141942/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1759,14 +2065,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | AWD | Navigation | Moonroof",
       "vin": "JF2SLSTD3TH469312",
       "stock": "26FR931",
       "color": "Grey",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/5fc81536c2d7.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71141944/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71141944/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1776,14 +2085,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Hybrid Premier",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Premier | AWD | Navigation | Moonroof",
       "vin": "JF2SLDTC0TH476477",
       "stock": "26FR647",
       "color": "Blue",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/4416d159e904.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71216146/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71216146/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1793,14 +2105,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Premier",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier | AWD | Navigation | Moonroof",
       "vin": "JF2SLSTD6TH476447",
       "stock": "26FR644",
       "color": "Grey",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/8dd14d96033b.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71216148/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71216148/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1810,14 +2125,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Hybrid Premier",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | AWD | Navigation | Moonroof",
       "vin": "JF2SLDRC2TH476438",
       "stock": "26FR643",
       "color": "Blue",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/df6e14e755d6.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71216149/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71216149/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1827,14 +2145,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience | AWD | Heated Front Seats",
       "vin": "JF2SLDAC6TH476437",
       "stock": "26FR643",
       "color": "Grey",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/eeb8d489cf81.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71216150/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71216150/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1844,14 +2165,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Convenience",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport | AWD | Heated Front Seats | Moonroof",
       "vin": "JF2SLDHCXTH476592",
       "stock": "26FR659",
       "color": "Green",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/c52dd6ea192c.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71216153/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71216153/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1861,14 +2185,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | AWD | Navigation | Moonroof",
       "vin": "JF2SLDRC5TH476708",
       "stock": "26FR670",
       "color": "Green",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/2431a4f2e6db.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71216160/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71216160/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1878,14 +2205,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | AWD | Navigation | Moonroof",
       "vin": "JF2SLDRC0TH476325",
       "stock": "26FR632",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/01a06164cc37.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71216162/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71216162/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1895,14 +2225,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | AWD | Navigation | Moonroof",
       "vin": "JF2SLDRC7TH476323",
       "stock": "26FR632",
       "color": "Grey",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/41ede1f47b65.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71216164/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71216164/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1912,14 +2245,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | AWD | Heated Front Seats | Moonroof",
       "vin": "JF2SLDDC7TH476703",
       "stock": "26FR670",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/cad62a71443e.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71216166/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71216166/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1929,14 +2265,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport | AWD | Heated Front Seats | Moonroof",
       "vin": "JF2SLDHC7TH476615",
       "stock": "26FR661",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/82c9979134b4.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71216170/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71216170/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1946,14 +2285,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring | AWD | Heated Front Seats | Moonroof",
       "vin": "JF2SLDDC6TH475204",
       "stock": "26FR520",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/055fe238b8bf.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71304568/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71304568/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1963,14 +2305,17 @@
       "odometer_km": 20,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | AWD | Navigation | Power Moonroof",
       "vin": "JF2SLDRC6TH477415",
       "stock": "26FR741",
       "color": "Grey",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/f779492b91b2.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71335394/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71335394/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1980,14 +2325,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | AWD | Navigation | Power Moonroof",
       "vin": "JF2SLDRC5TH477339",
       "stock": "26FR733",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/70209dbb5aa3.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71335397/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71335397/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1997,14 +2345,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited | AWD | Navigation | Power Moonroof",
       "vin": "JF2SLDRC8TH477514",
       "stock": "26FR751",
       "color": "Green",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/68d80f784c0c.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71335400/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71335400/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2014,14 +2365,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport | AWD | Heated Front Seats | Moonroof",
       "vin": "JF2SLDHC1TH476285",
       "stock": "26FR628",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/800f8b2186ec.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71335402/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/forester/prince-george/bc/71335402/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2031,14 +2385,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Impreza Convenience | AWD | Heated Front Seats",
       "vin": "JF1GUABC5T8239796",
       "stock": "26IH979",
       "color": "Blue",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/e3586faf9a19.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/impreza/prince-george/bc/69706216/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/impreza/prince-george/bc/69706216/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2048,14 +2405,17 @@
       "odometer_km": 14,
       "year": 2026,
       "make": "Subaru",
-      "model": "Impreza Convenience",
-      "condition": "new"
+      "model": "Impreza",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Impreza RS | AWD | Order Yours Today!",
       "vin": "FORDER26IHTGARS7Y",
       "stock": "FO26IHR",
       "color": "Red",
+      "trim": "RS",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/3d23984893c6.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/impreza/prince-george/bc/71016842/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/impreza/prince-george/bc/71016842/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2064,14 +2424,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Impreza RS",
-      "condition": "new"
+      "model": "Impreza",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT | AWD | Order Yours Today!",
       "vin": "FORDER26OBTDALX1X",
       "stock": "FO26OBL",
       "color": "Grey",
+      "trim": "Limited XT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/6d0ce5f3f0c5.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/68403858/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/68403858/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2080,14 +2443,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Limited XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | AWD | Order Yours Today!",
       "vin": "FORDER26OBTDATP8Y",
       "stock": "FO26OBT",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/4c2bc559a556.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/68403861/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/68403861/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2096,14 +2462,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Touring",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Wilderness | AWD | Order Yours Today!",
       "vin": "FORDER26OBTDAWXAT",
       "stock": "FO26OBW",
       "color": "Blue",
+      "trim": "Wilderness",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/52f7c31b9372.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/68403871/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/68403871/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2112,14 +2481,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Wilderness",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | AWD | Order Yours Today!",
       "vin": "FORDER26OBTDAPXCQ",
       "stock": "FO26OBP",
       "color": "Green",
+      "trim": "Premier XT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/9d63b20b4309.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/68403873/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/68403873/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2128,14 +2500,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Premier XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | AWD | Navigation | Power Sunroof",
       "vin": "JF2BURJD7TY555540",
       "stock": "26OB554",
       "color": "Green",
+      "trim": "Premier XT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/9b829b4f55bb.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/70212908/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/70212908/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2145,14 +2520,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Premier XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Wilderness | AWD | Heated Front Seats | Sunroof",
       "vin": "JF2BURLD5TY555680",
       "stock": "26OB568",
       "color": "Grey",
+      "trim": "Wilderness",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/fab99141deaf.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/70212912/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/70212912/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2162,14 +2540,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Wilderness",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | AWD | Nav | Heated/Cooled Seats",
       "vin": "JF2BURJD5TY580257",
       "stock": "26OB025",
       "color": "Green",
+      "trim": "Premier XT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/b84de45a07c3.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/70877954/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/70877954/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2179,14 +2560,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Premier XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | AWD | Nav | Heated/Cooled Seats",
       "vin": "JF2BURJD2TY595346",
       "stock": "26OB534",
       "color": "Blue",
+      "trim": "Premier XT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/4cfdc59e1d15.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/71216144/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/71216144/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2196,14 +2580,17 @@
       "odometer_km": 20,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Premier XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Wilderness | AWD | Heated Front Seats | Sunroof",
       "vin": "JF2BURLD5TY594415",
       "stock": "26OB441",
       "color": "Grey",
+      "trim": "Wilderness",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/ee9b9b3d1b56.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/71216154/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/71216154/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2213,14 +2600,17 @@
       "odometer_km": 43,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Wilderness",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | AWD | Nav | Heated/Cooled Seats",
       "vin": "JF2BURJD2TY594696",
       "stock": "26OB469",
       "color": "Grey",
+      "trim": "Premier XT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/f0da77ae5a0c.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/71216155/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/71216155/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2230,14 +2620,17 @@
       "odometer_km": 34,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Premier XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT | AWD | Nav | Heated/Cooled Seats",
       "vin": "JF2BURJD7TY594581",
       "stock": "26OB458",
       "color": "Grey",
+      "trim": "Premier XT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/7738630c85cf.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/71216167/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/71216167/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2247,14 +2640,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Premier XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Wilderness | AWD | 360 Camera | Navigation",
       "vin": "JF2BURLD6TY602232",
       "stock": "26OB223",
       "color": "Blue",
+      "trim": "Wilderness",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/7785a92640aa.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/71335396/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/71335396/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2264,14 +2660,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Wilderness",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Wilderness | AWD | 360 Camera | Navigation",
       "vin": "JF2BURLD6TY602117",
       "stock": "26OB211",
       "color": "Black",
+      "trim": "Wilderness",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/5932016be982.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/71335399/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/71335399/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2281,14 +2680,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Wilderness",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | AWD | Heated Front Seats | Power Sunroof",
       "vin": "JF2BUPCD2TY602510",
       "stock": "26OB251",
       "color": "Green",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/fcba6afea719.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/71335401/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/71335401/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2298,14 +2700,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Touring",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring | AWD | Heated Front Seats | Power Sunroof",
       "vin": "JF2BUPCDXTY602884",
       "stock": "26OB288",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/ddab680562ee.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/71335404/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/71335404/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2315,14 +2720,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Touring",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Wilderness | AWD | 360 Camera | Navigation",
       "vin": "JF2BURLD9TY596703",
       "stock": "26OB670",
       "color": "Black",
+      "trim": "Wilderness",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/233c70e76a66.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/71335406/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/outback/prince-george/bc/71335406/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2332,8 +2740,10 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Wilderness",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Trailseeker Limited | AWD | EV | Available to Order!",
@@ -2349,7 +2759,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Trailseeker Limited",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Trailseeker Premier | AWD | EV | Order Yours Today!",
@@ -2365,7 +2777,9 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Trailseeker Premier",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Uncharted LR | FWD | EV | Heated Front Seats",
@@ -2382,13 +2796,16 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Uncharted LR",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX tS | AWD | Manual | Performance Brakes/Suspension",
       "vin": "JF1VBAZ6XT9807869",
       "stock": "26WX786",
       "color": "Blue",
+      "trim": "tS",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/1bbd6b41e1c5.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/wrx/prince-george/bc/70192480/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/wrx/prince-george/bc/70192480/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2398,14 +2815,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "WRX tS",
-      "condition": "new"
+      "model": "WRX",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX Sport | AWD | Manual | Order Yours Today!",
       "vin": "FORDER26WXTYMWS1X",
       "stock": "FO26WXS",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/b661f4ef2198.html",
       "source_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/wrx/prince-george/bc/71016840/?sale_class=new",
       "dealer_url": "https://www.subaruofprincegeorge.com/vehicles/2026/subaru/wrx/prince-george/bc/71016840/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2414,8 +2834,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Subaru",
-      "model": "WRX Sport",
-      "condition": "new"
+      "model": "WRX",
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru Trailseeker Limited | AWD | EV | Nav | Heated Front Seats",
@@ -2432,7 +2854,9 @@
       "year": 2027,
       "make": "Subaru",
       "model": "Trailseeker Limited",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru Trailseeker Limited | AWD | EV | Nav | Heated Front Seats",
@@ -2449,7 +2873,9 @@
       "year": 2027,
       "make": "Subaru",
       "model": "Trailseeker Limited",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru Trailseeker Premier | AWD | EV | 360 Cam | Heated/Cooled Seats",
@@ -2466,7 +2892,9 @@
       "year": 2027,
       "make": "Subaru",
       "model": "Trailseeker Premier",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru Uncharted GT | AWD | EV | Nav | Heated/Cooled Front Seats",
@@ -2483,7 +2911,9 @@
       "year": 2027,
       "make": "Subaru",
       "model": "Uncharted GT",
-      "condition": "new"
+      "condition": "new",
+      "city": "Prince George",
+      "province": "BC"
     }
   ]
 }
