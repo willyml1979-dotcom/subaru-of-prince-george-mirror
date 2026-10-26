@@ -1,6 +1,6 @@
 {
   "dealership": "Subaru Of Prince George",
-  "generated_at": "2026-10-25T14:03:05",
+  "generated_at": "2026-10-25T21:33:27",
   "vehicle_count": 130,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -572,13 +572,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Crosstrek Touring AWD",
+      "name": "2026 Subaru Crosstrek Touring | AWD | Heated Front Seats/Steering Wheel",
       "vin": "JF2GUHDC1T8297163",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/51386704b29c.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "price": 40010.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx | AWD | Heated Front Seats | Sunroof",
@@ -603,14 +605,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Premier | AWD | Navigation | Power Moonroof",
+      "name": "2026 Subaru Forester Premier | AWD | Manager's Special!",
       "vin": "JF2SLDTC8TH462536",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/952e76f810cb.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 52110.0,
+      "price": 48599.0,
       "price_currency": "CAD"
     },
     {
@@ -1076,22 +1078,26 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Convenience AWD",
+      "name": "2026 Subaru Forester Convenience | AWD | Heated Front Seats",
       "vin": "JF2SLDAC7TH479282",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/463a7b9d34db.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "price": 40610.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Convenience AWD",
+      "name": "2026 Subaru Forester Convenience | AWD | Heated Front Seats",
       "vin": "JF2SLDAC2TH479111",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/5c3dda7924c1.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "price": 36490.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 Subaru Forester Convenience | AWD | Heated Front Seats",
