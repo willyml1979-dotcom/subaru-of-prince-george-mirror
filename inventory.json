@@ -1,6 +1,6 @@
 {
   "dealership": "Subaru Of Prince George",
-  "generated_at": "2026-10-25T23:43:37",
+  "generated_at": "2026-10-26T06:21:00",
   "vehicle_count": 130,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -590,7 +590,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "new",
-      "price": 37390.0,
+      "price": 41510.0,
       "price_currency": "CAD"
     },
     {
@@ -656,7 +656,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 48110.0,
+      "price": 43990.0,
       "price_currency": "CAD"
     },
     {
@@ -678,7 +678,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 50110.0,
+      "price": 45990.0,
       "price_currency": "CAD"
     },
     {
