@@ -1,19 +1,30 @@
 {
   "dealership": "Subaru Of Prince George",
-  "generated_at": "2026-11-17T04:49:55",
+  "generated_at": "2026-11-17T09:52:14",
   "vehicle_count": 139,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "2010 Ford Explorer Sport Trac Adrenalin | AWD | Tow Off The Lot",
-      "vin": "1FMEU2D80AUA20633",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/f1e5e0c15202.html",
-      "year": 2010,
-      "make": "Ford",
-      "model": "Explorer",
+      "name": "2011 Jeep Patriot North | 4WD | Tow Off The Lot",
+      "vin": "1J4NF2GB7BD149339",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/028179e95b16.html",
+      "year": 2011,
+      "make": "Jeep",
+      "model": "Patriot",
       "condition": "used",
-      "price": 15495.0,
+      "price": 6995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2013 Ford F-150 ",
+      "vin": "1FTFW1ET7DFB78024",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/628282bfe807.html",
+      "year": 2013,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 14995.0,
       "price_currency": "CAD"
     },
     {
@@ -28,22 +39,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2014 Mitsubishi Lancer Sedan",
-      "vin": "JA32V2FW3EU602861",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/a8c418f37e42.html",
+      "name": "2014 Chevrolet Silverado 1500 LT | 4WD | Seats 6 | Tow Off The Lot",
+      "vin": "3GCUKREC4EG220568",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/59654c77e8b5.html",
       "year": 2014,
-      "make": "Mitsubishi",
-      "model": "Lancer Sedan",
-      "condition": "used"
-    },
-    {
-      "name": "2015 Honda CR-V",
-      "vin": "2HKRM4H77FH113718",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/2e9e404ae767.html",
-      "year": 2015,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used"
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "used",
+      "price": 13895.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2016 Subaru Forester Limited | AWD | Tow Off The Lot",
@@ -75,7 +79,18 @@
       "make": "GMC",
       "model": "Terrain",
       "condition": "used",
-      "price": 15995.0,
+      "price": 15395.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 Toyota 4Runner SR5 | 4WD | Seats 7 | Nav | Sunroof | Heated Seats",
+      "vin": "JTEBU5JR8H5409770",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/ccd68db66346.html",
+      "year": 2017,
+      "make": "Toyota",
+      "model": "4Runner",
+      "condition": "used",
+      "price": 37895.0,
       "price_currency": "CAD"
     },
     {
@@ -86,29 +101,7 @@
       "make": "Toyota",
       "model": "Sequoia",
       "condition": "used",
-      "price": 22995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Chevrolet Cruze Sedan LT | Remote Start | Heated Front Seats",
-      "vin": "1G1BE5SM7J7240168",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/5650fb6f786c.html",
-      "year": 2018,
-      "make": "Chevrolet",
-      "model": "Cruze",
-      "condition": "used",
-      "price": 15995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Dodge Durango GT | AWD | Seats 7 | Remote Start | Sunroof",
-      "vin": "1C4RDJDG0JC400794",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/60fdea2eccf4.html",
-      "year": 2018,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "used",
-      "price": 21995.0,
+      "price": 22895.0,
       "price_currency": "CAD"
     },
     {
@@ -134,39 +127,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Toyota 4Runner Limited | 4WD | Nav | Remote Start | Sunroof",
-      "vin": "JTEBU5JR3J5503075",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/3d11c34b5471.html",
-      "year": 2018,
-      "make": "Toyota",
-      "model": "4Runner",
-      "condition": "used",
-      "price": 41995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Audi Q3 quattro Technik | AWD | 360 Cam | Nav | Moonroof",
-      "vin": "WA1FECF38K1071520",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/8c9f9eb4aab5.html",
-      "year": 2019,
-      "make": "Audi",
-      "model": "Q3",
-      "condition": "used",
-      "price": 26895.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Jaguar F-Pace 30t Prestige | AWD | Navigation | Moonroof",
-      "vin": "SADCK2GX6KA392330",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/722f634ecbfa.html",
-      "year": 2019,
-      "make": "Jaguar",
-      "model": "F-Pace 30t Prestige",
-      "condition": "used",
-      "price": 16495.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 Mercedes-Benz A-Class Sedan A 220 | AWD | Heated Front Seats | Moonroof",
       "vin": "WDD3G4FB7KW010149",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/a90f8cec1c53.html",
@@ -174,7 +134,7 @@
       "make": "Mercedes-Benz",
       "model": "A-Class Sedan A 220",
       "condition": "used",
-      "price": 24895.0,
+      "price": 24595.0,
       "price_currency": "CAD"
     },
     {
@@ -185,18 +145,7 @@
       "make": "Nissan",
       "model": "Altima",
       "condition": "used",
-      "price": 18995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Subaru Crosstrek Sport | AWD | In Transit",
-      "vin": "JF2GTAGC0KH227125",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/179abe099f91.html",
-      "year": 2019,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "used",
-      "price": 24895.0,
+      "price": 18795.0,
       "price_currency": "CAD"
     },
     {
@@ -207,19 +156,17 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 26995.0,
+      "price": 26895.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Subaru Outback Limited | AWD | Nav | Heated Seats/Steering Wheel",
-      "vin": "4S4BSFLC0K3210767",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/9dc585c56a5b.html",
+      "name": "2019 Subaru Outback",
+      "vin": "4S4BSDTCXK3284072",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/39a91e5e87c0.html",
       "year": 2019,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used",
-      "price": 17995.0,
-      "price_currency": "CAD"
+      "condition": "used"
     },
     {
       "name": "2020 Honda Civic Sedan Touring | Nav | Remote Start | Sunroof",
@@ -240,18 +187,7 @@
       "make": "Toyota",
       "model": "C-HR",
       "condition": "used",
-      "price": 26495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Toyota Corolla Sedan SE | Manual | Heated Front Seats | Sunroof",
-      "vin": "5YFB4RBE1LP010539",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/bd601c4dd4ae.html",
-      "year": 2020,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "used",
-      "price": 23495.0,
+      "price": 25995.0,
       "price_currency": "CAD"
     },
     {
@@ -266,6 +202,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2021 RAM 1500 Classic Quad Cab Express | 4WD | Remote Start | Heated Front Seats",
+      "vin": "1C6RR7FG6MS581726",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/eab20240b44a.html",
+      "year": 2021,
+      "make": "RAM",
+      "model": "1500 Classic",
+      "condition": "used",
+      "price": 28895.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2021 Subaru Crosstrek Outdoor | AWD | Heated Front Seats/Steering Wheel",
       "vin": "JF2GTHSC8MH217199",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/f12523db31f7.html",
@@ -273,7 +220,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 27595.0,
+      "price": 26895.0,
       "price_currency": "CAD"
     },
     {
@@ -284,18 +231,51 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 24995.0,
+      "price": 24595.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Nissan Murano SV | AWD | 360 Cam | Nav | Remote Start",
-      "vin": "5N1AZ2BS2NC130190",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/e6b1497451bf.html",
+      "name": "2021 Subaru Forester Touring | AWD | Heated Front Seats | Moonroof",
+      "vin": "JF2SKEJCXMH588118",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/e2a35131951e.html",
+      "year": 2021,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 23995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Nissan Armada Platinum | 4WD | Seats 7 | Nav | Remote Start",
+      "vin": "JN8AY2DB7N9812195",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/1a27d5611121.html",
       "year": 2022,
       "make": "Nissan",
-      "model": "Murano",
+      "model": "Armada",
       "condition": "used",
-      "price": 24495.0,
+      "price": 42995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Subaru Ascent Touring | AWD | Seats 7 | Heated Seats | Moonroof",
+      "vin": "4S4WMAFD0N3419126",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/2d6e4b5af687.html",
+      "year": 2022,
+      "make": "Subaru",
+      "model": "Ascent",
+      "condition": "used",
+      "price": 34895.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Subaru Forester Touring | AWD | Heated Front Seats | Moonroof",
+      "vin": "JF2SKEEC1NH504425",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/108874002add.html",
+      "year": 2022,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 29895.0,
       "price_currency": "CAD"
     },
     {
@@ -306,18 +286,7 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "used",
-      "price": 30995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Volkswagen Tiguan Highline R-Line | AWD | Nav | Remote Start",
-      "vin": "3VV4B7AX4NM101385",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/771b229c2640.html",
-      "year": 2022,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 29595.0,
+      "price": 30895.0,
       "price_currency": "CAD"
     },
     {
@@ -332,6 +301,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Nissan Murano Platinum | AWD | Navigation | Remote Start",
+      "vin": "5N1AZ2DS6PC127499",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/507b049e151c.html",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Murano",
+      "condition": "used",
+      "price": 29895.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Subaru Outback Wilderness | AWD | Heated Front Seats | Sunroof",
       "vin": "4S4BTHTD1P3135683",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/96e69d27a042.html",
@@ -339,7 +319,7 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "used",
-      "price": 34695.0,
+      "price": 34595.0,
       "price_currency": "CAD"
     },
     {
@@ -354,14 +334,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Ford Bronco Sport Outer Banks | 4WD | Nav | Remote Start | Moonroof",
-      "vin": "3FMCR9C61RRF60500",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/ed43b44e00fa.html",
+      "name": "2024 Chevrolet Colorado Z71 | 4WD | Remote Start | Heated/Cooled Seats",
+      "vin": "1GCPTDEK6R1237672",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/559c46a7f5d8.html",
       "year": 2024,
-      "make": "Ford",
-      "model": "Bronco Sport",
+      "make": "Chevrolet",
+      "model": "Colorado",
       "condition": "used",
-      "price": 34895.0,
+      "price": 49895.0,
       "price_currency": "CAD"
     },
     {
@@ -381,7 +361,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 27995.0,
+      "price": 27695.0,
       "price_currency": "CAD"
     },
     {
@@ -403,18 +383,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 29495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Subaru Outback Wilderness | AWD | Heated Front Seats | Moonroof",
-      "vin": "4S4BTHTD6R3129123",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/d2f2502ad7ce.html",
-      "year": 2024,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "used",
-      "price": 38995.0,
+      "price": 28895.0,
       "price_currency": "CAD"
     },
     {
@@ -429,6 +398,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Subaru Forester Sport | AWD | Heated Front Seats | Moonroof",
+      "vin": "JF2SLDHC4SH542259",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/f499b6c54ce5.html",
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 35895.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Subaru Forester Hybrid Premier | AWD | Navigation | Moonroof",
       "vin": "JF2SLSTD0SH405730",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/d37bc7ec0f82.html",
@@ -440,6 +420,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Subaru Forester Convenience | AWD | Heated Front Seats",
+      "vin": "JF2SLDAC2SH411261",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/fc560789bd4a.html",
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 33895.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Subaru Impreza Convenience | AWD | Heated Front Seats",
       "vin": "JF1GUABC3S8303980",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/63aab9134a4d.html",
@@ -448,6 +439,17 @@
       "model": "Impreza",
       "condition": "used",
       "price": 27495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Subaru Outback Convenience | AWD | Heated Seats/Steering Wheel",
+      "vin": "4S4BTDAC4S3215071",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/b03bd8283deb.html",
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "used",
+      "price": 34995.0,
       "price_currency": "CAD"
     },
     {
