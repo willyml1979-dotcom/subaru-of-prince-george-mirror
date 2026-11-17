@@ -1,7 +1,7 @@
 {
   "dealership": "Subaru Of Prince George",
-  "generated_at": "2026-10-26T08:19:00",
-  "vehicle_count": 130,
+  "generated_at": "2026-11-17T04:49:55",
+  "vehicle_count": 139,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -474,17 +474,6 @@
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | AWD | 360 Camera | Navigation",
-      "vin": "JF2GUSND5T8282427",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/302cdac4cd0a.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid",
-      "condition": "new",
-      "price": 47010.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | AWD | 360 Camera | Navigation",
       "vin": "JF2GUSND9T8294337",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/83b58683cb32.html",
       "year": 2026,
@@ -492,17 +481,6 @@
       "model": "Crosstrek Hybrid Hybrid",
       "condition": "new",
       "price": 47010.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited | AWD | Navigation | Power Sunroof",
-      "vin": "JF2GUSND8T8298105",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/ea24f181cd44.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid",
-      "condition": "new",
-      "price": 42890.0,
       "price_currency": "CAD"
     },
     {
@@ -531,39 +509,6 @@
       "name": "2026 Subaru Crosstrek Onyx | AWD | Heated Front Seats | Power Sunroof",
       "vin": "JF2GUHFC2T8269904",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/12426962b57d.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 41510.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Limited | AWD | Navigation | Power Sunroof",
-      "vin": "JF2GUHNC4T8289637",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/e48e7b0bb877.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 44510.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Onyx | AWD | Heated Front Seats | Power Sunroof",
-      "vin": "JF2GUHFC1T8297127",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/71b980e39feb.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 41510.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Onyx | AWD | Heated Front Seats | Power Sunroof",
-      "vin": "JF2GUHFC0T8297734",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/709e5db6a81e.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
@@ -792,17 +737,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Hybrid Premier | AWD | Navigation | Moonroof",
-      "vin": "JF2SLSTD0TH474970",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/1f9cc483c6ef.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester Hybrid",
-      "condition": "new",
-      "price": 53110.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Forester Limited | AWD | Navigation | Power Moonroof",
       "vin": "JF2SLDRC5TH474912",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/00f7d179aa6e.html",
@@ -880,17 +814,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Sport | AWD | Heated Front Seats | Moonroof",
-      "vin": "JF2SLDHCXTH476592",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/c52dd6ea192c.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 48110.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Forester Limited | AWD | Navigation | Moonroof",
       "vin": "JF2SLDRC5TH476708",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/2431a4f2e6db.html",
@@ -938,17 +861,6 @@
       "name": "2026 Subaru Forester Limited | AWD | Navigation | Power Moonroof",
       "vin": "JF2SLDRC6TH477415",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/f779492b91b2.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 45990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Limited | AWD | Navigation | Power Moonroof",
-      "vin": "JF2SLDRC5TH477339",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/70209dbb5aa3.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
@@ -1034,17 +946,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Touring | AWD | Heated Front Seats | Moonroof",
-      "vin": "JF2SLDDC8TH480579",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/c1620d24a886.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 41490.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Forester Premier | AWD | Navigation | Moonroof",
       "vin": "JF2SLDTC8TH480809",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/5bde3b4b3bf9.html",
@@ -1079,39 +980,6 @@
     },
     {
       "name": "2026 Subaru Forester Convenience | AWD | Heated Front Seats",
-      "vin": "JF2SLDAC7TH479282",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/463a7b9d34db.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 40610.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Convenience | AWD | Heated Front Seats",
-      "vin": "JF2SLDAC2TH479111",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/5c3dda7924c1.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 36490.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Convenience | AWD | Heated Front Seats",
-      "vin": "JF2SLDAC6TH480309",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/114e5f1e245f.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 38610.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Convenience | AWD | Heated Front Seats",
       "vin": "JF2SLDAC8TH480716",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/c8b85d12d36b.html",
       "year": 2026,
@@ -1133,25 +1001,124 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Impreza Convenience | AWD | Heated Front Seats",
-      "vin": "JF1GUABC5T8239796",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/e3586faf9a19.html",
+      "name": "2026 Subaru Forester Hybrid Premier | AWD | Navigation | Moonroof",
+      "vin": "JF2SLSTD9TH483280",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/43a3cad3ce78.html",
       "year": 2026,
       "make": "Subaru",
-      "model": "Impreza",
+      "model": "Forester Hybrid",
       "condition": "new",
-      "price": 30995.0,
+      "price": 50990.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Outback Premier XT | AWD | Navigation | Power Sunroof",
-      "vin": "JF2BURJD7TY555540",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/9b829b4f55bb.html",
+      "name": "2026 Subaru Forester Sport | AWD | Heated Front Seats | Moonroof",
+      "vin": "JF2SLDHC8TH483153",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/f648bf8f15c1.html",
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback",
+      "model": "Forester",
       "condition": "new",
-      "price": 57610.0,
+      "price": 43990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Limited | AWD | Navigation | Power Moonroof",
+      "vin": "JF2SLDRC3TH483947",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/45c8bdfcb14b.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 45990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Hybrid Premier | AWD | Navigation | Moonroof",
+      "vin": "JF2SLSTDXTH483207",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/c7e871dde68d.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "price": 50990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Convenience | AWD | Heated Front Seats",
+      "vin": "JF2SLDAC3TH481868",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/56a4e8948a0f.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 36490.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Premier | AWD | Navigation | Moonroof",
+      "vin": "JF2SLDTC8TH482964",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/66b2b1d48d31.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 47990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Hybrid Premier | AWD | Navigation | Moonroof",
+      "vin": "JF2SLSTD5TH482949",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/35a9f45c9bb3.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "price": 50990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Convenience | AWD | Heated Front Seats",
+      "vin": "JF2SLDAC3TH483197",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/2a418860bf90.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 36490.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Hybrid Premier | AWD | Navigation | Moonroof",
+      "vin": "JF2SLSTD8TH482878",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/f467a45e026e.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "price": 50990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Limited | AWD | Navigation | Power Moonroof",
+      "vin": "JF2SLDRC6TH482985",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/1a08e6d96534.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 45990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Sport | AWD | Heated Front Seats | Moonroof",
+      "vin": "JF2SLDHCXTH483140",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/bcd2db91655f.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 43990.0,
       "price_currency": "CAD"
     },
     {
@@ -1178,17 +1145,6 @@
     },
     {
       "name": "2026 Subaru Outback Touring | AWD | Heated Front Seats | Power Sunroof",
-      "vin": "JF2BUPCD2TY602510",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/fcba6afea719.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 47310.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Outback Touring | AWD | Heated Front Seats | Power Sunroof",
       "vin": "JF2BUPCDXTY602884",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/ddab680562ee.html",
       "year": 2026,
@@ -1196,50 +1152,6 @@
       "model": "Outback",
       "condition": "new",
       "price": 47310.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Outback Limited XT | AWD | Navigation | Sunroof",
-      "vin": "JF2BURHDXTY594046",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/602e4f94453e.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 54610.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Outback Wilderness | AWD | 360 Camera | Navigation",
-      "vin": "JF2BURLD7TY590723",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/97e383b0a6d4.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 55610.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Outback Touring | AWD | Heated Front Seats | Power Sunroof",
-      "vin": "JF2BUPCDXTY605137",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/edef2c712db4.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 47310.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Outback Wilderness | AWD | 360 Camera | Navigation",
-      "vin": "JF2BURLD8TY561764",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/a237cf9a9dcd.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 55610.0,
       "price_currency": "CAD"
     },
     {
@@ -1254,39 +1166,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Outback Wilderness | AWD | 360 Camera | Navigation",
-      "vin": "JF2BURLD6TY614400",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/756dc0251876.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 55610.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Outback Wilderness | AWD | 360 Camera | Navigation",
-      "vin": "JF2BURLDXTY613296",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/02867572005f.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 55610.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Outback Touring | AWD | Heated Front Seats | Power Sunroof",
-      "vin": "JF2BUPCD6TY613123",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/a249b7b0e291.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 47310.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Outback Touring | AWD | Heated Front Seats | Power Sunroof",
       "vin": "JF2BUPCDXTY613206",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/c4572653bc5c.html",
@@ -1295,17 +1174,6 @@
       "model": "Outback",
       "condition": "new",
       "price": 47310.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Outback Premier XT | AWD | Nav | Heated/Cooled Seats",
-      "vin": "JF2BURJD7TY606129",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/95e11f26c1d6.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 57610.0,
       "price_currency": "CAD"
     },
     {
@@ -1320,20 +1188,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Outback Limited XT | AWD | Navigation | Sunroof",
-      "vin": "JF2BURHD9TY613590",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/89e3bcbd6b11.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 54610.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Outback Touring | AWD | Heated Front Seats | Power Sunroof",
-      "vin": "JF2BUPCD5TY613906",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/5badace7fb36.html",
+      "vin": "JF2BUPCD4TY614870",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/053aec3fe0d0.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
@@ -1342,25 +1199,256 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru WRX tS | AWD | Manual | Performance Brakes/Suspension",
-      "vin": "JF1VBAZ6XT9807869",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/1bbd6b41e1c5.html",
+      "name": "2026 Subaru Outback Touring | AWD | Heated Front Seats | Power Sunroof",
+      "vin": "JF2BUPCD2TY615354",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/80caa9417336.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 47310.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Outback Wilderness | AWD | 360 Camera | Navigation",
+      "vin": "JF2BURLD6TY616728",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/fb3d2f5a8ab0.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 55610.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru WRX Sport | AWD | Manual | Heated Front Seats",
+      "vin": "JF1VBAH66T9818529",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/35ae52911eb2.html",
       "year": 2026,
       "make": "Subaru",
       "model": "WRX",
       "condition": "new",
-      "price": 54610.0,
+      "price": 40690.0,
       "price_currency": "CAD"
     },
     {
       "name": "2026 Subaru WRX GT | AWD | Nav | Harman Kardon Audio",
-      "vin": "JF1VBAV63T8817719",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/eb425fac4727.html",
+      "vin": "JF1VBAV66T8818511",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/c99893e2e958.html",
       "year": 2026,
       "make": "Subaru",
       "model": "WRX",
       "condition": "new",
-      "price": 49090.0,
+      "price": 55305.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru WRX Sport | AWD | Manual | Heated Front Seats",
+      "vin": "JF1VBAH65T9818571",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/83f42890c812.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "WRX",
+      "condition": "new",
+      "price": 40690.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Onyx | AWD | Heated Front Seats | Sunroof",
+      "vin": "JF2GUHFC4V8201882",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/83fab729776e.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 42010.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Touring | AWD | Heated Front Seats/Steering Wheel",
+      "vin": "JF2GUHDC4V8203652",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/e758e4ce842f.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 40510.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Onyx | AWD | Heated Front Seats | Sunroof",
+      "vin": "JF2GUHFCXV8202194",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/54a6cd597fb8.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 42310.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Onyx | AWD | Heated Front Seats | Sunroof",
+      "vin": "JF2GUHFC3V8200805",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/26a01536c15a.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 42010.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Convenience | AWD | Heated Front Seats",
+      "vin": "JF2GUHBC0V8203912",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/ce1f264824ef.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 33190.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Touring | AWD | Heated Front Seats/Steering Wheel",
+      "vin": "JF2GUHDCXV8207964",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/5403e8e73198.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 40510.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Hybrid Onyx | AWD | Heated Front Seats | Sunroof",
+      "vin": "JF2GUSGD0V8207909",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/11cf2280cf0b.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "price": 43610.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Convenience | AWD | Heated Front Seats",
+      "vin": "JF2GUHBC4V8207347",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/c62dc27290ba.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 33190.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Onyx | AWD | Heated Front Seats | Power Sunroof",
+      "vin": "JF2GUHFC2V8207857",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/115a6c911cfe.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 42310.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Limited | AWD | Navigation | Power Sunroof",
+      "vin": "JF2GUHNC9V8207680",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/dc36a4c87f7e.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 45110.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Hybrid Onyx | AWD | Heated Front Seats | Sunroof",
+      "vin": "JF2GUSGD6V8207963",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/6729c34ecf5a.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "price": 43910.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Convenience | AWD | Heated Front Seats",
+      "vin": "JF2GUHBC2V8207055",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/14e7c0832541.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 33190.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Onyx | AWD | Heated Front Seats | Power Sunroof",
+      "vin": "JF2GUHFC6V8208560",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/187181612bcc.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 42010.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Onyx | AWD | Heated Front Seats | Power Sunroof",
+      "vin": "JF2GUHFC9V8213039",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/9646d4071754.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 38190.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Convenience | AWD | Heated Front Seats",
+      "vin": "JF2GUHBC9V8214617",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/adf9c9d0d3e7.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 33190.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Hybrid Onyx | AWD | Heated Front Seats | Sunroof",
+      "vin": "JF2GUSGD8V8208340",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/290b50ec2aed.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "price": 39490.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Hybrid Limited | AWD | Navigation | Power Sunroof",
+      "vin": "JF2GUSND1V8212491",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/a0cf43ae4f45.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "price": 42990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Onyx | AWD | Heated Front Seats | Power Sunroof",
+      "vin": "JF2GUHFC8V8212741",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/4ec25cbd55f5.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 38190.0,
       "price_currency": "CAD"
     },
     {
@@ -1372,28 +1460,6 @@
       "model": "Trailseeker Limited",
       "condition": "new",
       "price": 56590.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Subaru Trailseeker Limited | AWD | EV | Nav | Heated Front Seats",
-      "vin": "JTMBGAHC7VY003298",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/3286aba36b44.html",
-      "year": 2027,
-      "make": "Subaru",
-      "model": "Trailseeker Limited",
-      "condition": "new",
-      "price": 56590.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Subaru Trailseeker Touring | AWD | EV | Heated Front Seats",
-      "vin": "JTMBGAHC5VY003641",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/b4ac0e2c0dd8.html",
-      "year": 2027,
-      "make": "Subaru",
-      "model": "Trailseeker Touring",
-      "condition": "new",
-      "price": 52590.0,
       "price_currency": "CAD"
     },
     {
@@ -1417,14 +1483,47 @@
       "condition": "new"
     },
     {
+      "name": "2027 Subaru Trailseeker Premier | AWD | EV | Heated/Cooled Seats",
+      "vin": "JTMBGAHC4VY003565",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/ffd1c4792f37.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Trailseeker Premier",
+      "condition": "new",
+      "price": 60590.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Trailseeker Limited | AWD | EV | Nav | Heated Front Seats",
+      "vin": "JTMBGAHC5VY004000",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/5771862b9ee5.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Trailseeker Limited",
+      "condition": "new",
+      "price": 56590.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Subaru Uncharted GT | AWD | EV | Nav | Heated/Cooled Front Seats",
-      "vin": "JTMAAAAE4VJ031108",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/2159787ca3d3.html",
+      "vin": "JTMAAAAE1VJ035097",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/37691e5ecbaf.html",
       "year": 2027,
       "make": "Subaru",
       "model": "Uncharted GT",
       "condition": "new",
       "price": 52590.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Uncharted LR | FWD | EV | Heated Front Seats",
+      "vin": "JTMABABE1VJ041378",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/988aba046067.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Uncharted LR",
+      "condition": "new",
+      "price": 47590.0,
       "price_currency": "CAD"
     }
   ]
