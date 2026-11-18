@@ -1,6 +1,6 @@
 {
   "dealership": "Subaru Of Prince George",
-  "generated_at": "2026-11-17T22:40:03",
+  "generated_at": "2026-11-18T01:01:04",
   "vehicle_count": 139,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -112,7 +112,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 19995.0,
+      "price": 19895.0,
       "price_currency": "CAD"
     },
     {
@@ -176,7 +176,7 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 23995.0,
+      "price": 23495.0,
       "price_currency": "CAD"
     },
     {
@@ -297,7 +297,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 53995.0,
+      "price": 53895.0,
       "price_currency": "CAD"
     },
     {
@@ -330,7 +330,7 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "used",
-      "price": 37995.0,
+      "price": 37495.0,
       "price_currency": "CAD"
     },
     {
@@ -345,13 +345,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Hyundai Tucson Hybrid",
+      "name": "2024 Hyundai Tucson Hybrid Hybrid Luxury | AWD | Nav | Remote Start | Sunroof",
       "vin": "KM8JCCD10RU201284",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/used/d60771e99839.html",
       "year": 2024,
       "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "used"
+      "model": "Tucson Hybrid Hybrid",
+      "condition": "used",
+      "price": 32995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024 Subaru Crosstrek Convenience | AWD | Heated Front Seats",
@@ -372,7 +374,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 34995.0,
+      "price": 34895.0,
       "price_currency": "CAD"
     },
     {
@@ -394,7 +396,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 23995.0,
+      "price": 23495.0,
       "price_currency": "CAD"
     },
     {
@@ -416,7 +418,7 @@
       "make": "Subaru",
       "model": "Forester Hybrid",
       "condition": "used",
-      "price": 51495.0,
+      "price": 50895.0,
       "price_currency": "CAD"
     },
     {
@@ -438,7 +440,7 @@
       "make": "Subaru",
       "model": "Impreza",
       "condition": "used",
-      "price": 27495.0,
+      "price": 27895.0,
       "price_currency": "CAD"
     },
     {
@@ -460,7 +462,7 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "used",
-      "price": 44995.0,
+      "price": 45195.0,
       "price_currency": "CAD"
     },
     {
