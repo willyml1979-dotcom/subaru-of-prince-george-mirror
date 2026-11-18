@@ -1,6 +1,6 @@
 {
   "dealership": "Subaru Of Prince George",
-  "generated_at": "2026-11-18T01:01:04",
+  "generated_at": "2026-11-18T08:09:18",
   "vehicle_count": 139,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -924,7 +924,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 47990.0,
+      "price": 52110.0,
       "price_currency": "CAD"
     },
     {
@@ -935,7 +935,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 43990.0,
+      "price": 48110.0,
       "price_currency": "CAD"
     },
     {
@@ -957,7 +957,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 47990.0,
+      "price": 52110.0,
       "price_currency": "CAD"
     },
     {
@@ -1478,13 +1478,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Subaru Trailseeker",
+      "name": "2027 Subaru Trailseeker Limited | AWD | EV | Nav | Heated Front Seats",
       "vin": "JTMBGAHC1VY002762",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-prince-george-mirror/new/7f637048f288.html",
       "year": 2027,
       "make": "Subaru",
-      "model": "Trailseeker",
-      "condition": "new"
+      "model": "Trailseeker Limited",
+      "condition": "new",
+      "price": 56590.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Subaru Trailseeker Premier | AWD | EV | Heated/Cooled Seats",
