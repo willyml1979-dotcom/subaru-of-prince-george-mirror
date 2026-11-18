@@ -1,6 +1,6 @@
 {
   "dealership": "Subaru Of Prince George",
-  "generated_at": "2026-11-17T09:52:14",
+  "generated_at": "2026-11-17T22:40:03",
   "vehicle_count": 139,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -878,7 +878,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 50110.0,
+      "price": 45990.0,
       "price_currency": "CAD"
     },
     {
@@ -889,7 +889,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 48110.0,
+      "price": 43990.0,
       "price_currency": "CAD"
     },
     {
@@ -911,7 +911,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 45990.0,
+      "price": 50110.0,
       "price_currency": "CAD"
     },
     {
